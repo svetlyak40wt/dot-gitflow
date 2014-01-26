@@ -1,0 +1,4 @@
+alias feature='git flow feature'
+alias release='git flow release'
+alias hotfix='git flow hotfix'
+alias support='git flow support'
